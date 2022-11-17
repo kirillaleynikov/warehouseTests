@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WarehLib/1.0.0": {
+        "dependencies": {
+          "warehousenet2": "1.0.0"
+        },
+        "runtime": {
+          "WarehLib.dll": {}
+        }
+      },
+      "warehousenet2/1.0.0": {
+        "runtime": {
+          "warehousenet2.exe": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WarehLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "warehousenet2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

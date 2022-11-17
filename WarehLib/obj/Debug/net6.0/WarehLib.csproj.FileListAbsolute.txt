@@ -1,0 +1,16 @@
+D:\С#\WarehLib\bin\Debug\net6.0\WarehLib.deps.json
+D:\С#\WarehLib\bin\Debug\net6.0\WarehLib.dll
+D:\С#\WarehLib\bin\Debug\net6.0\WarehLib.pdb
+D:\С#\WarehLib\bin\Debug\net6.0\warehousenet2.exe
+D:\С#\WarehLib\bin\Debug\net6.0\warehousenet2.pdb
+D:\С#\WarehLib\bin\Debug\net6.0\warehousenet2.exe.config
+D:\С#\WarehLib\obj\Debug\net6.0\WarehLib.csproj.AssemblyReference.cache
+D:\С#\WarehLib\obj\Debug\net6.0\WarehLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\С#\WarehLib\obj\Debug\net6.0\WarehLib.AssemblyInfoInputs.cache
+D:\С#\WarehLib\obj\Debug\net6.0\WarehLib.AssemblyInfo.cs
+D:\С#\WarehLib\obj\Debug\net6.0\WarehLib.csproj.CoreCompileInputs.cache
+D:\С#\WarehLib\obj\Debug\net6.0\WarehLib.csproj.CopyComplete
+D:\С#\WarehLib\obj\Debug\net6.0\WarehLib.dll
+D:\С#\WarehLib\obj\Debug\net6.0\refint\WarehLib.dll
+D:\С#\WarehLib\obj\Debug\net6.0\WarehLib.pdb
+D:\С#\WarehLib\obj\Debug\net6.0\ref\WarehLib.dll
