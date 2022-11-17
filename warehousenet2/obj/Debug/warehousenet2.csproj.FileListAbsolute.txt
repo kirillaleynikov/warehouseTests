@@ -1,0 +1,12 @@
+D:\С#\warehousenet2\bin\Debug\warehousenet2.exe.config
+D:\С#\warehousenet2\bin\Debug\warehousenet2.exe
+D:\С#\warehousenet2\bin\Debug\warehousenet2.pdb
+D:\С#\warehousenet2\obj\Debug\warehousenet2.csproj.AssemblyReference.cache
+D:\С#\warehousenet2\obj\Debug\warehousenet2.csproj.SuggestedBindingRedirects.cache
+D:\С#\warehousenet2\obj\Debug\warehousenet2.Form1.resources
+D:\С#\warehousenet2\obj\Debug\warehousenet2.Properties.Resources.resources
+D:\С#\warehousenet2\obj\Debug\warehousenet2.tovarinfoform.resources
+D:\С#\warehousenet2\obj\Debug\warehousenet2.csproj.GenerateResource.cache
+D:\С#\warehousenet2\obj\Debug\warehousenet2.csproj.CoreCompileInputs.cache
+D:\С#\warehousenet2\obj\Debug\warehousenet2.exe
+D:\С#\warehousenet2\obj\Debug\warehousenet2.pdb
