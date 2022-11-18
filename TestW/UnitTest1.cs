@@ -9,7 +9,7 @@ namespace TestW
         public void Add()
         {
             Logica logica = new();
-            var result = logica.Get();
+            
             Tovar test = new()
             {
                 FullName = "гвоздь",
@@ -20,6 +20,7 @@ namespace TestW
                 price = 5,
             };
             logica.Add(test);
+var result = logica.Get();
             Assert.Equal(test, result[0]);
         }
 
@@ -27,7 +28,7 @@ namespace TestW
         public void Change()
         {
             Logica logica = new();
-            var result = logica.Get();
+            
             Tovar test = new()
             {
                 FullName = "гвоздь",
@@ -47,7 +48,9 @@ namespace TestW
                 minpr = 3,
                 price = 3,
             };
+
             logica.Change(test2,test);
+var result = logica.Get();
             Assert.Equal(test2, result[0]);
         }
 
@@ -55,7 +58,7 @@ namespace TestW
         public void Delete()
         {
             Logica logica = new();
-            var result = logica.Get();
+            
             Tovar test = new()
             {
                 FullName = "гвоздь",
@@ -67,6 +70,7 @@ namespace TestW
             };
             logica.Add(test);
             logica.Remove(test);
+var result = logica.Get();
             Assert.Empty(result);
         }
     }
